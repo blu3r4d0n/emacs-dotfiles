@@ -1,15 +1,15 @@
 #+TITLE: blu3r4d0n's (Philip) Emacs
-This is currently a WIP
-* I recently switched from VIM to emacs, and am very pleased so far. The extensibilty of emacs and elisp is mind blowing to me
+* This is currently a WIP
+I recently switched from VIM to emacs, and am very pleased so far. The extensibilty of emacs and elisp is mind blowing to me
 
-* Startup file
-** The startup file is emacs, I plan to move these commands into my .config/emacs in the future
-* wm.el
-** The wm.el file runs EXWM which makes emacs into a window manager.
-** It also detects wether or not I have an external monitor connected and runs xrandr to configure respectively. 
-* Future Plans
-** I plan to integrate my git workflow into emacs
-** I'm trying to build up to using emacs as an IDE
-** Use org mode as my agenda
-** Besides coding I like to write and I feel I could turn Emacs into a good word processor given enough tweaking.
-** I also am learning the default keybindings because my goal is to eventually uninstall evil mode. 
+** Startup file
+- The startup file is emacs, I plan to move these commands into my .config/emacs in the future
+**  wm.el
+- The wm.el file runs EXWM which makes emacs into a window manager.
+- It also detects wether or not I have an external monitor connected and runs xrandr to configure respectively. 
+** Future Plans
+- I plan to integrate my git workflow into emacs
+- I'm trying to build up to using emacs as an IDE
+- Use org mode as my agenda
+- Besides coding I like to write and I feel I could turn Emacs into a good word processor given enough tweaking.
+- I also am learning the default keybindings because my goal is to eventually uninstall evil mode. 
