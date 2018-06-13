@@ -1,0 +1,1 @@
+/home/philip/.config/emacs/wm.el
