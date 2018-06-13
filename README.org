@@ -1,4 +1,5 @@
 #+TITLE: blu3r4d0n's (Philip) Emacs
+[[./etc/screen.png]]
 * This is currently a WIP
 I recently switched from VIM to emacs, and am very pleased so far. The extensibilty of emacs and elisp is mind blowing to me
 
