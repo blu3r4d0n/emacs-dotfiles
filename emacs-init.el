@@ -15,7 +15,7 @@
  '(jdee-server-dir "~/.jdee-server")
  '(package-selected-packages
    (quote
-    (projectile dashboard markdown-mode pdf-tools elcord org-bullets 0blayout jdee all-the-icons-gnus dirtree helm emms dmenu go-mode magit simpleclip multi-term evil))))
+    (slime-company slime company yasnippet-snippets yasnippet projectile dashboard markdown-mode pdf-tools elcord org-bullets 0blayout jdee all-the-icons-gnus dirtree helm emms dmenu go-mode magit simpleclip multi-term evil))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -29,6 +29,7 @@
 (load-file "~/.config/emacs/splash-screen.el")
 (load-file "~/.config/emacs/projectile.el")
 (load-file "~/.config/emacs/wm.el")
+(load-file "~/.config/emacs/programming.el")
 (use-package dirtree
   :init
   )

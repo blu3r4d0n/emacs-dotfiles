@@ -7,7 +7,10 @@ I recently switched from VIM to emacs, and am very pleased so far. The extensibi
 - The startup file is emacs, I plan to move these commands into my .config/emacs in the future
 **  wm.el
 - The wm.el file runs EXWM which makes emacs into a window manager.
-- It also detects wether or not I have an external monitor connected and runs xrandr to configure respectively. 
+- It also detects wether or not I have an external monitor connected and runs xrandr to configure respectively.
+** I installed company mode
+- Autcompletes elisp easily with an SBCL backend.
+- I plan to integrate company with my Python and C++  programming. I am still working on making Emacs into a java ide.
 ** Future Plans
 - I plan to integrate my git workflow into emacs
 - I'm trying to build up to using emacs as an IDE
